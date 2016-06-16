@@ -1,0 +1,1 @@
+In the current folder, use the command venv/bin/activate to get the virtual environment. It is crucial to use this to run Python 3 from now on. Always use this command.
